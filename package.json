@@ -1,8 +1,8 @@
 {
-  "name": "react-typescript",
+  "name": "base-md-preview",
   "version": "1.0.0",
   "type": "module",
-  "description": "React TypeScript on Replit, using Vite bundler",
+  "description": "",
   "scripts": {
     "start": "npm run dev",
     "dev": "vite",
